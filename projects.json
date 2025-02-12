@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "ECwid Store(2024)",
+    "description": "Helped a private client launch their brand on Ecwid, building a seamless eCommerce presence for their life-hack product line from the ground up.",
+    "thumbnail": "assets/eCommerceSite_ECwid.png",
+    "images": [
+      
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Endura Brand Website (2018)",
+    "description": "Developed the company website for Endura Tools in 2018. Established in 1998, Endura Tools provides industry-leading support tools widely used across mining, automotive, engineering, and home applications.",
+    "thumbnail": "assets/Endura.png",
+    "images": [
+         "assets/enduraHome.png",
+         "assets/endurabout.png",
+         "assets/enduranews.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Klauke Brand Online Stores CN(2018)",
+    "description": "Founded in 1879, the German brand Klauke is renowned for its high-quality tools and electrical connection technology, specializing in crimping, cutting, and punching solutions. Klauke and Endura share the same headquarters; however, in July 2018, Klauke was acquired by the EMERSON Group.",
+    "thumbnail": "assets/klauke.png",
+    "images": [
+           "assets/klaukeHome.png",
+           "assets/klaukeAbout.png",
+           "assets/klaukeproduct.png",
+           "assets/klaukeContact.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "FMCG eCommerce landing pages - Wyeth (2015-2017)",
+    "description": "Wyeth, founded in 1860, is a globally recognized brand in the FMCG sector, renowned for its premium nutrition and consumer healthcare products. From 2015 to 2017, I contributed to Wyeth’s eCommerce growth by developing and optimizing landing pages to enhance user engagement and online sales.",
+    "thumbnail": "assets/formularMilk.png",
+    "images": [
+            "assets/WyethLP0.png",
+            "assets/WyethLP1.jpg",
+            "assets/WyethLP2.png",
+            "assets/WyethKV.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "FMCG eCommerce landing pages - Milk (2015-2017)",
+    "description": "Served client Friesche Vlag from 2016 to 2017, managing monthly online campaigns to enhance brand engagement and digital presence.",
+    "thumbnail": "assets/milk.png",
+    "images": [
+            "assets/Jan.jpg",
+            "assets/Feb.jpg",
+            "assets/Dec.jpg",
+            "assets/Nov.jpg",
+            "assets/Oct.jpg",
+            "assets/Sep.jpg",
+            "assets/Aug.jpg",
+            "assets/Jul.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mobile pages (2015-2017)",
+    "description": "few demos for eCommerce mobile landing pages.",
+    "thumbnail": "assets/mobile.png",
+    "images": [
+            "assets/mobile0.jpg",
+            "assets/mobile1.jpg"
+    ]
+  }
+]
