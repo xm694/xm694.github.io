@@ -1,6 +1,62 @@
 [
   {
     "id": 1,
+    "name": "TikTok Monitor Web App",
+    "description": "Demo Project",
+    "thumbnail": "assets/tiktokMon.jpeg",
+    "images": [
+      "assets/DEMO_TikTokMon.gif"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "AI Chatbot with database",
+    "description": "Demo Project",
+    "thumbnail": "assets/Demo_aiChatbot.png",
+    "images": [
+      "assets/Demo_aiChatbot.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Ai Agent for SCADA report automation(UiPath)",
+    "description": "Intern project in UiPath, the project scope include data ingestion pipeline and AI agent integration with UiPath.",
+    "thumbnail": "assets/UiPath1.jpeg",
+    "images": [
+      "assets/UiPath2.jpeg",
+      "assets/UiPath3.jpeg",
+      "assets/UiPath4.jpeg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Traffic Hazard Notification Pipeline",
+    "description": "It's an application that watch out traffic hazards of NSW and sent notifications to subscribers. This project utilise AWS services to create a automated data pipeline for such deployments.",
+    "thumbnail": "assets/noti_thumbnail.jpg",
+    "images": [
+      "assets/TrafficPipe.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bus Website Demo",
+    "description": "This a full-stack demo website for a local bus company, tech stacks include Python Flask, SQLALchemy, Pandas, HTML, CSS, JavaScript, Dash, Bootstrap, MariaDB, SQL.",
+    "thumbnail": "",
+    "images": [
+      "assets/Bus_dirTree.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Google News Scraper and Sentiment Analysis",
+    "description": "The News Scraper is a Python program that leverages web scraping, sentiment analysis, and interactive visualization to analyze news articles.",
+    "thumbnail": "",
+    "images": [
+      "assets/NewsScraper.png"
+    ]
+  },
+  {
+    "id": 6,
     "name": "ECwid Store(2024)",
     "description": "Helped a private client launch their brand on Ecwid, building a seamless eCommerce presence for their life-hack product line from the ground up.",
     "thumbnail": "assets/eCommerceSite_ECwid.png",
@@ -9,7 +65,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 7,
     "name": "Endura Brand Website (2018)",
     "description": "Developed the company website for Endura Tools in 2018. Established in 1998, Endura Tools provides industry-leading support tools widely used across mining, automotive, engineering, and home applications.",
     "thumbnail": "assets/Endura.png",
@@ -20,7 +76,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 8,
     "name": "Klauke Brand Online Stores CN(2018)",
     "description": "Founded in 1879, the German brand Klauke is renowned for its high-quality tools and electrical connection technology, specializing in crimping, cutting, and punching solutions. Klauke and Endura share the same headquarters; however, in July 2018, Klauke was acquired by the EMERSON Group.",
     "thumbnail": "assets/klauke.png",
@@ -32,7 +88,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 9,
     "name": "FMCG eCommerce landing pages - Wyeth (2015-2017)",
     "description": "Wyeth, founded in 1860, is a globally recognized brand in the FMCG sector, renowned for its premium nutrition and consumer healthcare products. From 2015 to 2017, I contributed to Wyeth’s eCommerce growth by developing and optimizing landing pages to enhance user engagement and online sales.",
     "thumbnail": "assets/formularMilk.png",
@@ -44,7 +100,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 10,
     "name": "FMCG eCommerce landing pages - Milk (2015-2017)",
     "description": "Served client Friesche Vlag from 2016 to 2017, managing monthly online campaigns to enhance brand engagement and digital presence.",
     "thumbnail": "assets/milk.png",
@@ -60,7 +116,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 11,
     "name": "Mobile pages (2015-2017)",
     "description": "few demos for eCommerce mobile landing pages.",
     "thumbnail": "assets/mobile.png",
